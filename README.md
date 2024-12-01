@@ -7,5 +7,5 @@ The templates and starter code are licensed under APACHE-2.0
 #### Rust Frontend Frameworks
 -[x] Dioxus
 -[x] Yew
--[ ] Sycamore
+-[x] Sycamore
 -[ ] Vanilla Rust (No Framework)
