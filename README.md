@@ -5,7 +5,7 @@ Templates for Solana Rust Wallet Adapter using various Rust frontend frameworks
 The templates and starter code are licensed under APACHE-2.0
 
 #### Rust Frontend Frameworks
--[x] Dioxus
--[x] Yew
--[x] Sycamore
--[ ] Vanilla Rust (No Framework)
+- [x] Dioxus
+- [x] Yew
+- [x] Sycamore
+- [ ] Vanilla Rust (No Framework)
