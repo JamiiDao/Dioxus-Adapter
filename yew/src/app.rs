@@ -3,8 +3,6 @@ use std::{cell::RefCell, rc::Rc};
 use wallet_adapter::{Wallet, WalletAccount, WalletAdapter};
 use yew::prelude::*;
 
-use crate::{SignAndSendTxComponent, SignInComponent, SignMessageComponent, SignTxComponent};
-
 #[derive(Properties, PartialEq)]
 pub struct YewAdapter {
     controller: UseStateHandle<WalletAdapter>,
