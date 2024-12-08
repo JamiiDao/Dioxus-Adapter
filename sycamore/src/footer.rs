@@ -3,7 +3,7 @@ use sycamore::prelude::*;
 #[component]
 pub fn Footer() -> View {
     view! {
-        footer(class="footer footer-center p-4 bg-base-300 text-base-content"){
+        footer(class="footer footer-center p-4"){
             aside{
                 p { "Generated using "
                     a(class="link hover:text-white", href="https://cargo-generate.github.io/cargo-generate/"){ "cargo-generate"}
